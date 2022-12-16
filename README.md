@@ -1,6 +1,6 @@
 # BACKEND-COURSE.
 
-## Repository for self-study ***Back-end** development*.
+## Repository for self-study _**Back-end** development_.
 
 ### Practice with:
 
